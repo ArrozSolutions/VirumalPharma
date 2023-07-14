@@ -74,6 +74,7 @@ const Login = () => {
     
     <div className="developer">
           Shivansh Upadhyay
+          Shivansh Mehta  
         </div>
   </div>
   )
